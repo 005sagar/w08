@@ -1,6 +1,6 @@
 # w08
 <h1> About </h1>
-We use ajax and html for this projet.
+We use ajax and html for this project.
 
 <h1> Getting Started </h1>
 
