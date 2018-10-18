@@ -2,8 +2,7 @@
 <h1> About </h1>
 We use ajax and html for this projet.
 
-Getting Started
-Getting up and running is as easy as 1, 2, 3.
+<h1> Getting Started </h1>
 
 Make sure you have this web server installed in your Chrome browser. https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb
 

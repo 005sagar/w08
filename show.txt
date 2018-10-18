@@ -1,6 +1,23 @@
-My name is Sagar, I am from Nepal and I am a junior .
-
-My dream job is to be a programmer.
-
-I love to travel. 
-
+<h1> <b> Sphero </b> </h1>
+<li>
+The Sphero is one of these tools. It is amazingly versatile and will engage and empower your students. </li> <br>
+<li>A tennis ball sized robot connected via bluetooth to a mobile device, the Sphero can be used to transform teaching and learning across various curriculum areas.
+</li><br>
+<li>
+Sphero was initially prototyped by its inventors, Ian Bernstein and Adam Wilson, with a 3D-printed shell and electronics taken from a smartphone.
+</li><br>
+<li>
+They are controlled with a smartphone or tablet running iOS, Android or Windows Phone via Bluetooth, and wirelessly charged with a charging base.
+</li><br>
+<li>
+Since they have an accelerometer and a gyroscope, it can also be used as a controller for games on iOS and Android platforms.
+</li><br>
+<li>
+Sphero's firmware is updated automatically with the official app.</li><br>
+<li>
+An SDK is also available, making it possible to develop applications that can interact with the ball. </li> <br>
+<li>
+Unofficial SDKs are also available for other devices and platforms, such as Robot Operating System.
+</li>
+<br>
+ <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVLTDQQ7lXHIdGjXt3tMRPVsQwlbignfzcIbwJgXH6DHp6Fva">
